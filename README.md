@@ -16,7 +16,7 @@ This repository contains projects completed as part of the "Data Analyst" course
 
 | #  | Project Title                                                | Description                                                                                       | Tools & Skills                                              |
 |----|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| 01  | [Basic Python](./project_01_Basic_python)         | Comparison of user preferences on Yandex.Music across cities and days of the week.               | `Python`, `Pandas`                                          |
+| 01  | [Basic Python](./01_Yandex_Music)         | Comparison of user preferences on Yandex.Music across cities and days of the week.               | `Python`, `Pandas`                                          |
 | 02  | [Loan Reliability](./project_02_credit_scoring)              | Investigating how family status and number of children affect loan repayment behavior.           | `Data preprocessing`, `Python`, `Pandas`                    |
 | 03  | [Real Estate Market Analysis](./project_03_real_estate)      | Analysis of apartment sale listings in St. Petersburg and the Leningrad Region.                  | `Python`, `Pandas`, `Matplotlib`, `EDA`, `Data Viz`         |
 | 04  | [Mobile Tariff Analysis](./project_04_tariff_analysis)       | Studying customer behavior to determine the most suitable mobile plan for a telecom company.     | `Python`, `Pandas`, `Matplotlib`, `NumPy`, `SciPy`, `Hypothesis Testing`, `Descriptive Stats` |
